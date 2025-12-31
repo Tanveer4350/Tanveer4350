@@ -11,20 +11,20 @@
     pause=1200&
     center=true&
     vCenter=true&
-    width=460&
+    width=480&
     lines=Computer+Science+Student;
-    Interested+in+systems+and+software;
+    Software+and+Web+Developer;
     Learning+by+building+and+debugging" />
 </p>
 
 ---
 
 ### About
-I’m a computer science student who enjoys working close to fundamentals —  
-understanding **how things work**, not just making them work.
+I’m a computer science student with an interest in writing clean, understandable code and
+learning how software systems work beneath the surface.
 
-My interests span **programming, problem-solving, web development**, and gradually  
-moving toward **backend systems and scalable software**.
+I enjoy working with **programming fundamentals**, **web technologies**, and gradually
+building experience in **backend and mobile development**.
 
 ---
 
@@ -33,9 +33,11 @@ moving toward **backend systems and scalable software**.
 **Languages**  
 C, C++, Python, Java, Kotlin  
 
-**Web & UI**  
+**Web Development**  
 HTML, CSS, JavaScript, React, Node.js  
-Responsive design, basic UI/UX principles  
+
+**Web Designing**  
+Responsive design, UI/UX principles  
 
 **Databases**  
 MySQL, PostgreSQL  
@@ -45,14 +47,14 @@ VS Code, GitHub, Android Studio, Figma
 
 ---
 
-### What I’m Doing Now
-- Strengthening core CS concepts (DSA, OOPs)  
-- Building small web and backend projects  
-- Exploring Android development with Kotlin  
+### What I’m Working On
+- Strengthening DSA and OOP concepts  
+- Building small full-stack projects  
+- Exploring Android development using Kotlin  
 
 ---
 
-### GitHub Activity
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanveer4350&show_icons=true&hide_border=true"/>
 </p>
@@ -64,8 +66,7 @@ VS Code, GitHub, Android Studio, Figma
 ---
 
 ### Connect
-- LinkedIn: https://linkedin.com/in/tanveer4350
-- Email: tanveersingh4350@gmail.com 
+- 📧 Email: tanveersingh4350@gmail.com 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60"/>
