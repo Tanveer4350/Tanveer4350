@@ -56,7 +56,9 @@ VS Code, GitHub, Android Studio, Figma
 
 
 ### Connect
-- 📧 Email: tanveersingh4350@gmail.com 
+- 📧 Email: tanveersingh4350@gmail.com
+- LinkedIn: https://linkedin.com/in/tanveer4350
+  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60"/>
