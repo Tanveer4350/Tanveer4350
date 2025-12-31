@@ -54,16 +54,6 @@ VS Code, GitHub, Android Studio, Figma
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanveer4350&show_icons=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tanveer4350&hide_border=true"/>
-</p>
-
----
 
 ### Connect
 - 📧 Email: tanveersingh4350@gmail.com 
